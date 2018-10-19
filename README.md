@@ -11,3 +11,12 @@ $ npm install @aandelenkoning/xsoft
 PS.
 Dependencies to install ''npm' first, 
 use:'' sudo apt install npm''
+
+--------------------------------------------------------------------------
+
+Usage
+
+const xsoft = require("@aandelenkoning/xsoft");
+
+xsoft("So much space!");
+//=> "Somuchspace!"
