@@ -1,5 +1,13 @@
 # xsoft
 The x-iest npm module
 
-(linux setup)
-to setup the x test use: npm i xsoft
+removes the spaces in a sentence, to make it less space-i ;)
+Demo NPM package used for 1 action only: Removes all spaces from a string.
+
+Install
+
+$ npm install @aandelenkoning/xsoft
+
+PS.
+Dependencies to install ''npm' first, 
+use:'' sudo apt install npm''
